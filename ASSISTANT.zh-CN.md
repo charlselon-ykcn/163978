@@ -3,7 +3,7 @@
 性能 · 电池 · 系统 · 算账。行业竖屏口播预上线 Demo，欢迎提出建议。
 
 模板与完整下载: https://motiongit.com/@adunext/industry-tech-upgrade-or-keep
-版本: 1.0.3
+版本: 1.0.4
 Demo 已公开，下载开放状态以官网为准。
 
 ## 技术资料
