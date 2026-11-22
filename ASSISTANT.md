@@ -3,7 +3,7 @@
 Performance · Battery · System · Cost. Prelaunch portrait talking-head demo. Feedback welcome.
 
 Template & full download: https://motiongit.com/@adunext/industry-tech-upgrade-or-keep
-Version: 1.0.2
+Version: 1.0.3
 Demo available. Check the official page for current download availability.
 
 ## Technical reference
